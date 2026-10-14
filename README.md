@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ทะเบียนผู้ปฏิบัติการ EMS ปี 2568</title>
+    <title>ทะเบียนผู้ปฏิบัติการ EMS ปี 2569</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- FontAwesome Icons -->
@@ -538,43 +538,7 @@
             { id: 4, name: "นางสาวตรีนุช สกุลแก้ว", role: "ALS", code: "5111204388", expiry: "23/03/71", acknowledged: true },
             { id: 5, name: "นางสาวซูไลลัน เซ็ง", role: "ALS", code: "5111205013", expiry: "23/03/71", acknowledged: true },
             { id: 6, name: "นางซาวียะห์ บือราแง", role: "ALS", code: "5411222069", expiry: "20/03/74", acknowledged: true },
-            { id: 7, name: "นายอัลอามีน ยีเอ็ง", role: "ALS", code: "5411226924", expiry: "31/07/74", acknowledged: true },
-            { id: 8, name: "นางสาวซูนีดา มามะ", role: "ALS", code: "5411227096", expiry: "31/07/74", acknowledged: true },
-            { id: 9, name: "นางนายีเราะ สาและ", role: "ALS", code: "5411227205", expiry: "31/07/74", acknowledged: true },
-            { id: 10, name: "นางสาวคอลียะห์ เจ๊ะสะนิ", role: "ALS", code: "5411226646", expiry: "20/03/74", acknowledged: true },
-            { id: 11, name: "นายฮาซันอวัณบุตร", role: "ALS", code: "5511232413", expiry: "29/04/70", acknowledged: true },
-            { id: 12, name: "นางสาวรุสมาวาตี มูดอ", role: "ALS", code: "4911198555", expiry: "26/11/74", acknowledged: true },
-            { id: 13, name: "นางรุสนานี มอลอ", role: "ALS", code: "4911197151", expiry: "22/07/74", acknowledged: true },
-            { id: 14, name: "นางสาวนูรีดา สะแลแม", role: "ALS", code: "5011201377", expiry: "22/07/74", acknowledged: true },
-            { id: 15, name: "นางสาวลาตีป๊ะ สูหลง", role: "ALS", code: "5411225760", expiry: "20/03/74", acknowledged: true },
-            { id: 16, name: "นางสาวอาฟีณีย์ ดารามะ", role: "ALS", code: "-", expiry: "23/06/72", acknowledged: true },
-            { id: 17, name: "นางสาวรอฮานิง เจ๊ะหะมะ", role: "ALS", code: "5411227143", expiry: "03/07/74", acknowledged: true },
-            { id: 18, name: "นายซัมรี หะยีกือเตะ", role: "ALS", code: "5411225325", expiry: "20/03/74", acknowledged: true },
-            { id: 19, name: "นางสาวพีดาวาตี สะเตง", role: "ALS", code: "5411227219", expiry: "31/07/74", acknowledged: true },
-            { id: 20, name: "นางสาวนูรอาซีกีม สาเมาะ", role: "ALS", code: "5511238960", expiry: "25/11/70", acknowledged: true },
-            { id: 21, name: "นางสาวไซนูรี มะสาแม", role: "ALS", code: "5411221887", expiry: "20/03/74", acknowledged: true },
-            { id: 22, name: "นางสาวนาชูวา มะเย็ง", role: "ALS", code: "-", expiry: "19/07/73", acknowledged: true },
-            { id: 23, name: "นางซารีนา บินอารง", role: "ALS", code: "6311170948", expiry: "18/07/73", acknowledged: true },
-            { id: 24, name: "นางสาววัลนิดา เจ๊ะปูเต๊ะ", role: "ALS", code: "5111208413", expiry: "23/11/71", acknowledged: true },
-            { id: 25, name: "นางสาวนาฏยา พรมแก้ว", role: "ALS", code: "5111207185", expiry: "27/07/71", acknowledged: true },
-            { id: 26, name: "นางยามีละ เจ๊ะซอ", role: "ALS", code: "5411222181", expiry: "20/03/74", acknowledged: true },
-            { id: 27, name: "นางสาวรอฮายะห์ หามะ", role: "ALS", code: "5411222087", expiry: "20/03/74", acknowledged: true },
-            { id: 28, name: "นางสาวนูร์รุสดา หามะ", role: "ALS", code: "5411228027", expiry: "31/07/74", acknowledged: true },
-            { id: 29, name: "นางสาวโนร์อากีน แวยะโก๊ะ", role: "ALS", code: "5511234370", expiry: "25/05/70", acknowledged: true },
-            { id: 30, name: "นางสาวนุรไอนิง หามะ", role: "ALS", code: "5411226655", expiry: "20/03/74", acknowledged: true },
-            { id: 31, name: "นางสาวซาฟียะห์ สามะ", role: "ALS", code: "5411230927", expiry: "25/12/74", acknowledged: true },
-            { id: 32, name: "นางสีตีฮายา วาหลง", role: "ALS", code: "4611094421", expiry: "23/03/71", acknowledged: true },
-            { id: 33, name: "นายนัสรี เจ๊ะหามะ", role: "ALS", code: "ฉพ.1679", expiry: "-", acknowledged: true },
-            { id: 34, name: "นายยุชรี แมะ", role: "ALS", code: "จฉพ.1295", expiry: "04/04/70", acknowledged: true },
-            { id: 35, name: "นางสาวกุสุมา แวอุเซ็ง", role: "ALS", code: "4811107105", expiry: "31/07/73", acknowledged: true },
-            { id: 36, name: "นางสาวนายีฮะ หะยีนุ", role: "ALS", code: "5411224083", expiry: "20/03/74", acknowledged: true },
-            { id: 37, name: "นางสาวซารีฟาร์ อับดุลซามะ", role: "ALS", code: "5311218226", expiry: "21/03/73", acknowledged: true },
-            { id: 38, name: "นายรุสดี กุเวกามา", role: "EMR", code: "-", expiry: "-", acknowledged: true },
-            { id: 39, name: "นายมานะ ชินวงศ์", role: "Driver", code: "DRV-0001", expiry: "-", acknowledged: true },
-            { id: 40, name: "นายสับรี หะยีบีดิง", role: "Driver", code: "DRV-0002", expiry: "-", acknowledged: true },
-            { id: 41, name: "นายอาหะมะ บือราเฮง", role: "Driver", code: "DRV-0003", expiry: "-", acknowledged: true },
-            { id: 42, name: "นายประหยัด จุ่งสกุล", role: "Driver", code: "DRV-0004", expiry: "-", acknowledged: true },
-            { id: 43, name: "นายมูสำหมัดยูโต๊ะ เจ๊ะซอ", role: "Driver", code: "DRV-0005", expiry: "-", acknowledged: true }
+            { id: 7, name: "นายอัลอามีน ยีเอ็ง", role: "ALS", code: "5411226924", expiry: "31/07/74", acknowledged: true }
         ];
 
         // App State
